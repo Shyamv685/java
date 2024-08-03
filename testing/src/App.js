@@ -18,7 +18,7 @@ const trafficStates = {
     duration: 3000,
     next: "yellow"
   }
-};
+}; 
 
 export default function App() {
   return (
